@@ -1,2 +1,2 @@
-# comptetitive-programming
+# competitive-programming
 Random competitive programming solutions
