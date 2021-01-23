@@ -1,6 +1,3 @@
-//https://dmoj.ca/problem/a4b1
-//https://dmoj.ca/submission/3312488
-
 #include <bits/stdc++.h>
 
 using namespace std;
