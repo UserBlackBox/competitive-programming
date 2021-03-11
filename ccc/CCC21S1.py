@@ -1,4 +1,6 @@
 #!/usr/bin/env python3
+#ccc 2021 senior 15/15
+
 from sys import stdin
 
 n = int(stdin.readline())
